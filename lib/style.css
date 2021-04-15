@@ -1,0 +1,125 @@
+/* Add your styles here */ 
+#body{
+background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.desktopbackground.org%2Fdownload%2Fo%2F2015%2F12%2F17%2F1059004_yu-gi-oh-online-backgrounds-and-sleeves-projects-ygopro-forum_1024x642_h.jpg&f=1&nofb=1');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+#nombre {
+  background-color: rgb(105, 105, 105);
+  color: rgb(255, 250, 250);
+}
+#tituloPublicacion {
+  background-color: rgb(128, 128, 128);
+  color: rgb(255, 250, 250);
+}
+.imagenesFilaNombreTituloPublicacion {
+  display: block;
+  margin-left: 70px;
+  margin-top: 10px;
+  margin-right: auto;
+  width: 33%;
+}
+
+#bannerMonstruos{
+    background-color: rgba(169,169,169,0.8);
+    
+}
+
+#Kuriboh{
+  display: block;
+  margin-top: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+#junkWarrior{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+#draco{
+  display: block;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+#bolaFlor{
+  display: block;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+#bunnyD{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+#expAn{
+  color: #C9D1C8 ;
+  background-color: rgba(4, 32, 44, 0.8);
+
+}
+#expR{
+  background-color: rgba(91, 112, 101, 0.8);
+}
+
+#yugi{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#toonEyes{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+#bannerDuelistas{
+    background-color: rgba(4, 32, 44, 0);
+    margin-right: 10px
+    
+}
+#duelista{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 135%;
+}
+#duelLinks{
+  background-color: rgba(142, 155, 151, 0.9);
+}
+
+#intereslink{
+   background-color: rgba(4, 32, 44, 0.9);
+   color: #C9D1C8 ;
+}
+#imagenLinks{
+  background-color: rgba(4, 32, 44, 0.9);
+}
+#mundoToon{
+  width: 100%;
+}
+#duelLinksLogo{
+  width: 100%;
+   margin-left: auto;
+  margin-right: auto;
+}
+
+
